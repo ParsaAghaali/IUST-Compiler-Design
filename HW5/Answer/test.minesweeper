@@ -1,0 +1,9 @@
+output: console
+hint: False
+game: 10 X 10
+bomb: 1 , 2
+bomb: 1 , 1
+bomb: 2 , 2
+bomb: 2 , 9
+bomb: 5 , 5
+bomb: 9 , 9
